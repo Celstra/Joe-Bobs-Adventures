@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 81d54e3615c0a98408bb0c1630224ec1, type: 3}
-  m_Name: A7.RepairedShip
+  m_Name: S1.RepairedShip
   m_EditorClassIdentifier: 
   storyText: "Your ship has been repaired and you can now continue with your mission!
     Congratulations. \n\nWould you like to Play again?\n1. Yes, IM ADDICTED!!\n2.

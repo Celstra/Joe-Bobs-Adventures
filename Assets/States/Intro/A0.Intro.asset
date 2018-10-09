@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: A0.Intro
   m_EditorClassIdentifier: 
   storyText: "Welcome to this short experience in space. Your engines have failed
-    and you must repair this to complete the mission.\r\n\r\nPlease press a number
+    and you must repair them to complete the mission.\r\n\r\nPlease press a number
     to make a choice of what you would like to do. You can at anytime press \"q\"
-    to quit the game.\r\n\r\nThanks for playing and have fun."
+    to quit the game.\r\n\r\nThanks for playing and have fun.\nPress \"1\" to contiune..."
   nextStates:
   - {fileID: 11400000, guid: 8a656ec07191d9a40ae119de68c1c587, type: 2}
