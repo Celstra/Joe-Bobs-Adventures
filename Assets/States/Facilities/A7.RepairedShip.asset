@@ -9,18 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 81d54e3615c0a98408bb0c1630224ec1, type: 3}
-  m_Name: X0.GaneOver
+  m_Name: A7.RepairedShip
   m_EditorClassIdentifier: 
-  storyText: 'Your ship does not have enough power to activate mining laser and explodes
-    in a fiery ball.
-
-
-    Would you like to play again?
-
-
-    1. Yes! Take me to my Ship!!
-
-    2. No! Please make it stop!'
+  storyText: "Your ship has been repaired and you can now continue with your mission!
+    Congratulations. \n\nWould you like to Play again?\n1. Yes, IM ADDICTED!!\n2.
+    No, I am lame..."
   nextStates:
   - {fileID: 11400000, guid: 8a656ec07191d9a40ae119de68c1c587, type: 2}
   - {fileID: 11400000, guid: 90636e8efa6883348a18e92e8b2f7006, type: 2}

@@ -9,10 +9,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 81d54e3615c0a98408bb0c1630224ec1, type: 3}
-  m_Name: A3.MiningFacility
+  m_Name: A6.Operation
   m_EditorClassIdentifier: 
-  storyText: "\"Welcome to Mining Facility ADW2. How may I be of assistance?\"\r\n\r\n1.
-    Check Current Resource\r\n\r\n2. Begin New Operation"
+  storyText: "The new operation produces an additional 3 units of jet fuel, 2 units
+    of metals, and 7 units of organics.\r\n\r\nThis is enough to repair ship!\r\n\r\n1.
+    Repair ship"
   nextStates:
-  - {fileID: 11400000, guid: 4631b305b2f611847af941c9997c2392, type: 2}
-  - {fileID: 11400000, guid: a78d16e2ab745cf4bb0648e2a25473c1, type: 2}
+  - {fileID: 11400000, guid: 020688788a9badd49bfe4321f0d3db2b, type: 2}

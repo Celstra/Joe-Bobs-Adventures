@@ -9,17 +9,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 81d54e3615c0a98408bb0c1630224ec1, type: 3}
-  m_Name: StartingState
+  m_Name: A1.Cockpit
   m_EditorClassIdentifier: 
-  storyText: 'You are sitting at the mining console of your ship. You are in an astroid
-    field above a planet. You have a Mining Facility on the planet and Scanners and
-    Mining Lasers on your Ship.
+  storyText: 'You are sitting at the console of your ship. Your engines are malfuncitoning.
+    You are in an astroid field above a planet. You have a Mining Facility on the
+    planet and Scanners on your Ship.
 
 
     What would you like to do?
 
     1. Activate Scanner
 
-    2. Log in to Mining Facility
-
-    3. Activate Mining Lasers'
+    2. Log in to Mining Facility'
+  nextStates:
+  - {fileID: 11400000, guid: dd5469171c4ca744b9da008f01ef5729, type: 2}
+  - {fileID: 11400000, guid: 3dbf0d092cd520247a0382e4ac9f25ca, type: 2}

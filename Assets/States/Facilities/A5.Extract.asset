@@ -9,10 +9,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 81d54e3615c0a98408bb0c1630224ec1, type: 3}
-  m_Name: A3.MiningFacility
+  m_Name: A5.Extract
   m_EditorClassIdentifier: 
-  storyText: "\"Welcome to Mining Facility ADW2. How may I be of assistance?\"\r\n\r\n1.
-    Check Current Resource\r\n\r\n2. Begin New Operation"
+  storyText: "You currently don't have enough resources to repair your ship.\r\n\r\n1.
+    Check Current Resources\r\n\r\n2. Begin New Operation\r"
   nextStates:
   - {fileID: 11400000, guid: 4631b305b2f611847af941c9997c2392, type: 2}
   - {fileID: 11400000, guid: a78d16e2ab745cf4bb0648e2a25473c1, type: 2}
